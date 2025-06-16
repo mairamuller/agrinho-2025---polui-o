@@ -2,6 +2,8 @@ O projeto desenvolvido no p5.js aborda a temática da poluição e o impacto da 
 
 Como jogar?:Para interagir com o jogo, é necessário clicar com o mouse na tela. A cada clique, uma árvore será plantada, porém algumas surgirão com uma tonalidade preta, simbolizando os efeitos da poluição causados pela urbanização. O propósito deste jogo é convidar à reflexão sobre o impacto ambiental do crescimento urbano, destacando a importância da preservação da natureza diante da crescente degradação causada pela expansão das cidades.
 
+#agrinho2025
+#agrinho
 
 
 
